@@ -26,4 +26,3 @@ Vervang de tekst onder het kopje 'koop nu je tickets'.
 
 gebruik hiervoor de volgende tekst:
 Koop hier je tickets, klik op de link hieronder om naar de pagina te gaan waar je je tickets kan bestellen.
-rhqerheh
